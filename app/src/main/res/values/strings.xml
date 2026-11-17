@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Luma</string>
+    <string name="tagline">Share moments, stories &amp; light</string>
+    <string name="local_mode_badge">Local Device Mode • On-device SQLite storage</string>
+    <string name="local_mode_notice">Firebase cloud sync was declined. Profiles, 24h stories, posts, and follows are stored locally on this device.</string>
+
+    <!-- Auth -->
+    <string name="auth_welcome_title">Welcome to Luma</string>
+    <string name="auth_signup_title">Create your account</string>
+    <string name="auth_email_label">Email</string>
+    <string name="auth_password_label">Password</string>
+    <string name="auth_display_name_label">Display Name</string>
+    <string name="auth_username_label">Username</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_sign_up">Create Account</string>
+    <string name="auth_switch_to_signup">New to Luma? Sign up</string>
+    <string name="auth_switch_to_login">Already have an account? Sign in</string>
+    <string name="auth_demo_button">Continue as Demo Creator</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Feed & Stories -->
+    <string name="feed_following">Following</string>
+    <string name="feed_for_you">For You</string>
+    <string name="sort_latest">Latest</string>
+    <string name="sort_popular">Popular</string>
+    <string name="your_story">Your Story</string>
+    <string name="add_story">Add Story</string>
+    <string name="empty_feed_title">Your Following feed is quiet</string>
+    <string name="empty_feed_subtitle">Follow creators in Explore or share your first photo to bring your feed to life.</string>
+    <string name="empty_feed_cta">Discover Creators</string>
+
+    <!-- Post Actions -->
+    <string name="action_like">Like</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="action_follow">Follow</string>
+    <string name="action_following">Following</string>
+    <string name="action_delete">Delete</string>
+    <string name="comments_title">Comments</string>
+    <string name="comments_hint">Add a comment...</string>
+    <string name="comments_post">Post</string>
+    <string name="comments_empty">No comments yet. Start the conversation.</string>
+
+    <!-- Create -->
+    <string name="create_title">Create</string>
+    <string name="create_mode_post">Feed Post</string>
+    <string name="create_mode_story">24h Story</string>
+    <string name="create_pick_media">Choose from Gallery</string>
+    <string name="create_take_photo">Take Photo</string>
+    <string name="create_caption_label">Write a caption...</string>
+    <string name="create_location_label">Location (optional)</string>
+    <string name="create_publish_post">Share Post</string>
+    <string name="create_publish_story">Share to Story (24h)</string>
+
+    <!-- Explore -->
+    <string name="explore_search_hint">Search creators or captions...</string>
+    <string name="explore_suggested">Suggested Creators</string>
+    <string name="explore_discover_posts">Discover</string>
+
+    <!-- Profile -->
+    <string name="profile_posts">Posts</string>
+    <string name="profile_followers">Followers</string>
+    <string name="profile_following">Following</string>
+    <string name="profile_edit">Edit Profile</string>
+    <string name="profile_tab_posts">Posts</string>
+    <string name="profile_tab_saved">Saved</string>
+    <string name="profile_sign_out">Sign Out</string>
+    <string name="profile_theme_toggle">Dark Theme</string>
+    <string name="edit_profile_title">Edit Profile</string>
+    <string name="edit_profile_change_photo">Change Profile Photo</string>
+    <string name="edit_profile_bio_label">Bio</string>
+    <string name="edit_profile_save">Save Changes</string>
+    <string name="back">Back</string>
+</resources>

@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Luma</string>
+    <string name="tagline">पल, स्टोरीज़ और क्रिएटिविटी शेयर करें</string>
+    <string name="local_mode_badge">लोकल डिवाइस मोड • ऑन-डिवाइस स्टोरेज</string>
+    <string name="local_mode_notice">Firebase क्लाउड सिंक अस्वीकार किया गया था। प्रोफ़ाइल, 24 घंटे की स्टोरीज़, पोस्ट और फ़ॉलो लोकल रूप से इस डिवाइस पर सहेजे जाते हैं।</string>
+
+    <!-- Auth -->
+    <string name="auth_welcome_title">Luma में आपका स्वागत है</string>
+    <string name="auth_signup_title">अपना अकाउंट बनाएं</string>
+    <string name="auth_email_label">ईमेल</string>
+    <string name="auth_password_label">पासवर्ड</string>
+    <string name="auth_display_name_label">पूरा नाम</string>
+    <string name="auth_username_label">यूज़रनेम</string>
+    <string name="auth_sign_in">लॉग इन</string>
+    <string name="auth_sign_up">साइन अप</string>
+    <string name="auth_switch_to_signup">Luma पर नए हैं? साइन अप करें</string>
+    <string name="auth_switch_to_login">पहले से अकाउंट है? लॉग इन करें</string>
+    <string name="auth_demo_button">डेमो क्रिएटर के रूप में जारी रखें</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_explore">एक्सप्लोर</string>
+    <string name="nav_create">क्रिएट</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+
+    <!-- Feed & Stories -->
+    <string name="feed_following">फ़ॉलोइंग</string>
+    <string name="feed_for_you">आपके लिए</string>
+    <string name="sort_latest">नवीनतम</string>
+    <string name="sort_popular">लोकप्रिय</string>
+    <string name="your_story">आपकी स्टोरी</string>
+    <string name="add_story">स्टोरी जोड़ें</string>
+    <string name="empty_feed_title">आपका फ़ॉलोइंग फ़ीड शांत है</string>
+    <string name="empty_feed_subtitle">फ़ीड को जीवंत बनाने के लिए एक्सप्लोर में क्रिएटर्स को फ़ॉलो करें या अपनी पहली फ़ोटो शेयर करें।</string>
+    <string name="empty_feed_cta">क्रिएटर्स खोजें</string>
+
+    <!-- Post Actions -->
+    <string name="action_like">लाइक</string>
+    <string name="action_comment">कमेंट</string>
+    <string name="action_share">शेयर</string>
+    <string name="action_save">सेव</string>
+    <string name="action_follow">फ़ॉलो</string>
+    <string name="action_following">फ़ॉलोइंग</string>
+    <string name="action_delete">हटाएं</string>
+    <string name="comments_title">कमेंट्स</string>
+    <string name="comments_hint">कमेंट लिखें...</string>
+    <string name="comments_post">पोस्ट</string>
+    <string name="comments_empty">अभी तक कोई कमेंट नहीं है।</string>
+
+    <!-- Create -->
+    <string name="create_title">क्रिएट</string>
+    <string name="create_mode_post">फ़ीड पोस्ट</string>
+    <string name="create_mode_story">24h स्टोरी</string>
+    <string name="create_pick_media">गैलरी से चुनें</string>
+    <string name="create_take_photo">फ़ोटो लें</string>
+    <string name="create_caption_label">कैप्शन लिखें...</string>
+    <string name="create_location_label">लोकेशन (वैकल्पिक)</string>
+    <string name="create_publish_post">पोस्ट शेयर करें</string>
+    <string name="create_publish_story">स्टोरी शेयर करें (24h)</string>
+
+    <!-- Explore -->
+    <string name="explore_search_hint">क्रिएटर या कैप्शन खोजें...</string>
+    <string name="explore_suggested">सुझाए गए क्रिएटर्स</string>
+    <string name="explore_discover_posts">एक्सप्लोर</string>
+
+    <!-- Profile -->
+    <string name="profile_posts">पोस्ट</string>
+    <string name="profile_followers">फ़ॉलोअर्स</string>
+    <string name="profile_following">फ़ॉलोइंग</string>
+    <string name="profile_edit">प्रोफ़ाइल संपादित करें</string>
+    <string name="profile_tab_posts">पोस्ट</string>
+    <string name="profile_tab_saved">सेव किए गए</string>
+    <string name="profile_sign_out">लॉग आउट</string>
+    <string name="profile_theme_toggle">डार्क थीम</string>
+    <string name="edit_profile_title">प्रोफ़ाइल संपादित करें</string>
+    <string name="edit_profile_change_photo">प्रोफ़ाइल फ़ोटो बदलें</string>
+    <string name="edit_profile_bio_label">बायो</string>
+    <string name="edit_profile_save">बदलाव सेव करें</string>
+    <string name="back">वापस</string>
+</resources>

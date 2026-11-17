@@ -1,0 +1,6 @@
+{
+  "name": "Luma",
+  "description": "Modern social media app with Google Sign-In, user profiles, 24-hour expiring Stories, and a real-time photo feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
